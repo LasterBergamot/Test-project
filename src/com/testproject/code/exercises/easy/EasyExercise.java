@@ -1,11 +1,10 @@
-package com.testproject.code.exercises;
+package com.testproject.code.exercises.easy;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Optional;
 import java.util.stream.Collectors;
 
-public class CodeExercise {
+public class EasyExercise {
 
     /**
      * Sum of Two Numbers

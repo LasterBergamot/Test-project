@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aeb9f8e-de82-4e98-98a0-7819897d8643" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testproject/code/exercises/moderate/ModerateExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test-project/com/testproject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-project/com/testproject/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test-project/com/testproject/code/exercises/CodeExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-project/com/testproject/code/exercises/CodeExercise.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/testproject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testproject/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/testproject/code/exercises/CodeExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testproject/code/exercises/CodeExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testproject/code/exercises/CodeExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testproject/code/exercises/easy/EasyExercise.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1P38I3uOX9f6BdUMIJjVrMWXLSc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
