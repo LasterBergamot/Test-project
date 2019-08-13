@@ -2,11 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aeb9f8e-de82-4e98-98a0-7819897d8643" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testproject/code/exercises/moderate/ModerateExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/Swapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/BMITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/SumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/SwapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/testproject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testproject/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/testproject/code/exercises/CodeExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testproject/code/exercises/easy/EasyExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test-project/com/testproject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test-project/com/testproject/code/exercises/CodeExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testproject/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testproject/code/exercises/easy/EasyExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testproject/code/exercises/moderate/ModerateExercise.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +45,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1P38I3uOX9f6BdUMIJjVrMWXLSc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,7 +61,13 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.testproject.code.wars.kyu.eight" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SumTest.sampleTests">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.testproject.Main" />
       <module name="Test-project" />
@@ -58,8 +92,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BMITest.testBMI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testproject.code.wars.kyu.eight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testproject.code.wars.kyu.eight" />
+      <option name="MAIN_CLASS_NAME" value="com.testproject.code.wars.kyu.eight.BMITest" />
+      <option name="METHOD_NAME" value="testBMI" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumTest.sampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testproject.code.wars.kyu.eight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testproject.code.wars.kyu.eight" />
+      <option name="MAIN_CLASS_NAME" value="com.testproject.code.wars.kyu.eight.SumTest" />
+      <option name="METHOD_NAME" value="sampleTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapperTest.testSomething" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testproject.code.wars.kyu.eight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testproject.code.wars.kyu.eight" />
+      <option name="MAIN_CLASS_NAME" value="com.testproject.code.wars.kyu.eight.SwapperTest" />
+      <option name="METHOD_NAME" value="testSomething" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SumTest.sampleTests" />
+        <item itemvalue="JUnit.BMITest.testBMI" />
+        <item itemvalue="JUnit.SwapperTest.testSomething" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
