@@ -1,18 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2aeb9f8e-de82-4e98-98a0-7819897d8643" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/KeepHydrated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/OddCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/KeepHydratedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/OddCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testproject/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/exercises/easy/EasyExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/exercises/moderate/ModerateExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/BMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/KeepHydrated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/OddCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/Swapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/BMITest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/KeepHydratedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/OddCountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/SumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/SwapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Test-project.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/Test-project.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testproject/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/exercises/easy/EasyExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/exercises/moderate/ModerateExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/wars/kyu/eight/BMI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/wars/kyu/eight/KeepHydrated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/wars/kyu/eight/OddCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/wars/kyu/eight/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/wars/kyu/eight/Swapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Test-project.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/Test-project.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testproject/code/wars/kyu/eight/BMITest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testproject/code/wars/kyu/eight/KeepHydratedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testproject/code/wars/kyu/eight/OddCountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testproject/code/wars/kyu/eight/SumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testproject/code/wars/kyu/eight/SwapperTest.class" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,54 +72,60 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1P38I3uOX9f6BdUMIJjVrMWXLSc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../example-project/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.testproject.code.wars.kyu.eight" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andras_Torok\MyStuff\Workspaces\Idea-Projects\Test-project\src\main\resources" />
+      <recent name="C:\Users\Andras_Torok\MyStuff\Workspaces\Idea-Projects\Test-project\src\main\java\com\testproject" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.KeepHydratedTest">
-    <configuration name="BMITest.testBMI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Docker.resources/Dockerfile">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testproject.Main" />
       <module name="Test-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testproject.code.wars.kyu.eight.*" />
+          <option name="PATTERN" value="com.testproject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.testproject.code.wars.kyu.eight" />
-      <option name="MAIN_CLASS_NAME" value="com.testproject.code.wars.kyu.eight.BMITest" />
-      <option name="METHOD_NAME" value="testBMI" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,45 +161,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumTest.sampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testproject.code.wars.kyu.eight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testproject.code.wars.kyu.eight" />
-      <option name="MAIN_CLASS_NAME" value="com.testproject.code.wars.kyu.eight.SumTest" />
-      <option name="METHOD_NAME" value="sampleTests" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="resources/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="test-container" />
+          <option name="entrypoint" value="" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="80" />
+                <option name="hostPort" value="80" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="src/main/resources/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
     </configuration>
-    <configuration name="SwapperTest.testSomething" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testproject.code.wars.kyu.eight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testproject.code.wars.kyu.eight" />
-      <option name="MAIN_CLASS_NAME" value="com.testproject.code.wars.kyu.eight.SwapperTest" />
-      <option name="METHOD_NAME" value="testSomething" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="testproject/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="src/main/java/com/testproject/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.resources/Dockerfile" />
+        <item itemvalue="Docker.testproject/Dockerfile" />
+        <item itemvalue="Docker.resources/Dockerfile" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.KeepHydratedTest" />
-        <item itemvalue="JUnit.OddCountTest.fixedTests" />
-        <item itemvalue="JUnit.SumTest.sampleTests" />
-        <item itemvalue="JUnit.BMITest.testBMI" />
-        <item itemvalue="JUnit.SwapperTest.testSomething" />
       </list>
     </recent_temporary>
   </component>
@@ -160,8 +211,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565091336560</updated>
+      <workItem from="1568205581466" duration="670000" />
+      <workItem from="1569506044182" duration="127000" />
+      <workItem from="1574947744921" duration="426000" />
+      <workItem from="1574948327251" duration="986000" />
+      <workItem from="1580995073568" duration="256000" />
+      <workItem from="1581079488561" duration="44000" />
+      <workItem from="1585320146290" duration="44000" />
+      <workItem from="1586960964583" duration="1323000" />
+      <workItem from="1587017782420" duration="39000" />
+      <workItem from="1587039101789" duration="643000" />
+      <workItem from="1587560251828" duration="3101000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -173,5 +238,60 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" key="#Docker" timestamp="1592468946963">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Docker/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468946963" />
+    <state x="664" y="70" key="#classes/Dockerfile" timestamp="1592468961976">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="664" y="70" key="#classes/Dockerfile/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468961976" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589895815811">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589895815811" />
+    <state x="664" y="70" key="#resources/Dockerfile" timestamp="1592469510462">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="664" y="70" key="#resources/Dockerfile/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592469510462" />
+    <state x="664" y="70" key="#testproject/Dockerfile" timestamp="1592468836994">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="664" y="70" key="#testproject/Dockerfile/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468836994" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1592469071273">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592469071273" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1592468584435">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468584435" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1592468584434">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468584434" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1592468584434">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468584434" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1592468584435">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468584435" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1592469454293">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592469454293" />
+    <state x="860" y="416" width="520" height="389" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize" timestamp="1592469417966">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="860" y="416" width="520" height="389" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592469417966" />
+    <state x="342" y="100" key="new project wizard" timestamp="1591876375637">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="100" key="new project wizard/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1591876375637" />
   </component>
 </project>
