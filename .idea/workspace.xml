@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aeb9f8e-de82-4e98-98a0-7819897d8643" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testproject/TestClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
@@ -86,7 +87,7 @@
       <recent name="C:\Users\Andras_Torok\MyStuff\Workspaces\Idea-Projects\Test-project\src\main\java\com\testproject" />
     </key>
   </component>
-  <component name="RunManager" selected="Docker.resources/Dockerfile">
+  <component name="RunManager" selected="JUnit.TestClass.testMethod">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.testproject.Main" />
       <module name="Test-project" />
@@ -96,21 +97,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KeepHydratedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testproject.code.wars.kyu.eight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testproject.code.wars.kyu.eight" />
-      <option name="MAIN_CLASS_NAME" value="com.testproject.code.wars.kyu.eight.KeepHydratedTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,6 +112,22 @@
       <option name="PACKAGE_NAME" value="com.testproject.code.wars.kyu.eight" />
       <option name="MAIN_CLASS_NAME" value="com.testproject.code.wars.kyu.eight.OddCountTest" />
       <option name="METHOD_NAME" value="fixedTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass.testMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testproject" />
+      <option name="MAIN_CLASS_NAME" value="com.testproject.TestClass" />
+      <option name="METHOD_NAME" value="testMethod" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestClass.testMethod" />
         <item itemvalue="Docker.resources/Dockerfile" />
         <item itemvalue="Docker.testproject/Dockerfile" />
         <item itemvalue="Docker.resources/Dockerfile" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.KeepHydratedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -236,21 +238,25 @@
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592469071273" />
     <state x="2660" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1592570267736" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1592468584435">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1593075409167">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1593075409167" />
     <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468584435" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1592468584434">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1593075409167">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1593075409167" />
     <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468584434" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1592468584434">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1593075409167">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1593075409167" />
     <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468584434" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1592468584435">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1593075409167">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1593075409167" />
     <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468584435" />
     <state x="461" y="170" key="SettingsEditor" timestamp="1592469454293">
       <screen x="0" y="0" width="1920" height="1050" />
