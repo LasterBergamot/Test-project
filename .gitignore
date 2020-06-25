@@ -138,5 +138,5 @@ buildNumber.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,maven,java
 
-./jenkins/jenkins-data/*
-./jenkins/jenkins-docker-certs/*
+jenkins/jenkins-data/*
+jenkins/jenkins-docker-certs/*
