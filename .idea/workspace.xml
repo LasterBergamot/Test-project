@@ -20,38 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aeb9f8e-de82-4e98-98a0-7819897d8643" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testproject/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/exercises/easy/EasyExercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/exercises/moderate/ModerateExercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/BMI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/KeepHydrated.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/OddCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testproject/code/wars/kyu/eight/Swapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/BMITest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/KeepHydratedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/OddCountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/SumTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testproject/code/wars/kyu/eight/SwapperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Test-project.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/Test-project.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testproject/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/exercises/easy/EasyExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/exercises/moderate/ModerateExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/wars/kyu/eight/BMI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/wars/kyu/eight/KeepHydrated.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/wars/kyu/eight/OddCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/wars/kyu/eight/Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testproject/code/wars/kyu/eight/Swapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Test-project.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/Test-project.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testproject/code/wars/kyu/eight/BMITest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testproject/code/wars/kyu/eight/KeepHydratedTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testproject/code/wars/kyu/eight/OddCountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testproject/code/wars/kyu/eight/SumTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testproject/code/wars/kyu/eight/SwapperTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../example-project/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todo-app/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -261,10 +230,11 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="664" y="70" key="#testproject/Dockerfile/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592468836994" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1592469071273">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="2660" y="280" key="FileChooserDialogImpl" timestamp="1592570267736">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1592469071273" />
+    <state x="2660" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1592570267736" />
     <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1592468584435">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
